@@ -84,11 +84,9 @@ pip install watchdog
 - For **personal learning, research, and experimental use only**, not for commercial purposes.  
 
 ### 修改備註 | Modification Notes
-- 本版本資料夾名稱：`FaceFusion3.4.1 (Leo 個人版)`  
-- 修改人：Leo  
+- 本版本資料夾名稱：`FaceFusion3.4.1 (個人版)`    
 - 修改範圍：新增自動化更名機制、路徑與批次檔設定；未更改原始專案的核心版權標示。  
-- Folder Name: `FaceFusion3.4.1 (Leo Personal Edition)`  
-- Modified by: Leo  
+- Folder Name: `FaceFusion3.4.1 (Personal Edition)`  
 - Scope of Changes: Added auto-rename mechanism, adjusted paths and batch file settings; **no changes to core copyright notices**.  
 
 ### 免責聲明 | Disclaimer
@@ -96,5 +94,3 @@ pip install watchdog
 - This modified version is **unofficial** and has no relation to the original FaceFusion authors.  
 - 本人尊重原作者的智慧財產權與授權條款，如有任何侵權或不當使用疑慮，請透過適當管道通知，我將立即停止使用或移除相關內容。  
 - I respect all intellectual property rights and license terms of the original authors. If there are any concerns regarding infringement or improper use, please notify me through proper channels, and I will promptly stop using or remove the content.  
-- 此版本僅存放於個人電腦，不對外公開散佈。  
-- This version is stored **locally only** and is not distributed publicly.
