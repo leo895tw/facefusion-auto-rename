@@ -13,7 +13,7 @@ This is an **auto-renaming system for FaceFusion**, solving the problem of rando
   ```
   範例 Example:
   ```
-  xxhyun_01-gamin_01_20250925-221954.mp4
+  xxjess_01-dance_01_20250925-221954.mp4
   ```
 
 - JSON 備份機制：所有 `.jobs/completed` 產生的 JSON 會被複製到 `outputs/json_backup`，不怕遺失。  
@@ -74,12 +74,27 @@ pip install watchdog
 
 ---
 
-## 🛠 備用功能 (Fallback)
-- 在 FaceFusion UI 上可手動按 **「強制更名 (Force Rename)」**，立即重新執行更名。  
-  In FaceFusion UI, you can manually click **Force Rename** if automation fails.
+## 📜 授權與免責 (License & Disclaimer)
 
----
+- 本專案基於 **FaceFusion**（原始專案：https://github.com/facefusion/facefusion），授權方式為 OpenRAIL-AS 及各資源原始授權。  
+- This project is based on **FaceFusion** (original project: https://github.com/facefusion/facefusion), licensed under OpenRAIL-AS and the original licenses of its assets.  
 
-## 📜 授權 (License)
-個人學習與實驗用途，自行承擔使用風險。  
-For personal learning and experimental use only. Use at your own risk.
+### 使用範圍 | Usage Scope
+- 僅限個人學習、研究與實驗用途，不得用於商業行為。  
+- For **personal learning, research, and experimental use only**, not for commercial purposes.  
+
+### 修改備註 | Modification Notes
+- 本版本資料夾名稱：`FaceFusion3.4.1 (Leo 個人版)`  
+- 修改人：Leo  
+- 修改範圍：新增自動化更名機制、路徑與批次檔設定；未更改原始專案的核心版權標示。  
+- Folder Name: `FaceFusion3.4.1 (Leo Personal Edition)`  
+- Modified by: Leo  
+- Scope of Changes: Added auto-rename mechanism, adjusted paths and batch file settings; **no changes to core copyright notices**.  
+
+### 免責聲明 | Disclaimer
+- 本修改版非官方發佈，與 FaceFusion 原作者無關。  
+- This modified version is **unofficial** and has no relation to the original FaceFusion authors.  
+- 本人尊重原作者的智慧財產權與授權條款，如有任何侵權或不當使用疑慮，請透過適當管道通知，我將立即停止使用或移除相關內容。  
+- I respect all intellectual property rights and license terms of the original authors. If there are any concerns regarding infringement or improper use, please notify me through proper channels, and I will promptly stop using or remove the content.  
+- 此版本僅存放於個人電腦，不對外公開散佈。  
+- This version is stored **locally only** and is not distributed publicly.
